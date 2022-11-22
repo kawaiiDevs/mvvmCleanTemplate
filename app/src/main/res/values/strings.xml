@@ -1,3 +1,34 @@
 <resources>
-    <string name="app_name">mvvmCleanTemplate</string>
+    <string name="app_name">MvvmCleanTemplate </string>
+    <string name="action_settings">Settings</string>
+    <!--GenericMessageException-->
+    <string name="title_generic_exception_error">Message</string>
+    <string name="body_generic_exception_error">Ops! we are presenting problems, please try later</string>
+
+    <!--NetworkMessageException-->
+    <string name="title_network_exception_error">No internet</string>
+    <string name="body_network_exception_error">It looks like you have not internet connection</string>
+    <string name="empty_string" />
+
+    <string name="title_favourite_label">Favourite</string>
+    <string name="empty_favourite_body">There is no favourite added yet</string>
+    <string name="notify_success">Added to favourite</string>
+    <string name="delete_favourite_body">Are yo sure to delete this Character from your favourite list ?</string>
+    <string name="no_internet_connection">Verify your internet connection</string>
+    <string name="accept_label">Accept</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="try_again_label">Try again</string>
+    <string name="lbl_series">Series:</string>
+    <string name="hint_search">Search Band / Singer / Artist</string>
+    <string name="empty_title_search">Itunes Search </string>
+    <string name="empty_body_label">Start Searching your artist!</string>
+    <string name="empty_title">No Results </string>
+    <string name="empty_body_not_found_label">We couldn\'t find what you searched for.</string>
+    <string name="empty_query">Invalid Search </string>
+    <string name="empty_query_label">We couldn\'t find what you searched for.</string>
+    <string name="empty_description_option_1">Try search again</string>
+    <string name="empty_description_option_2">Use artist name</string>
+    <string name="title_artist_itunes">More Information</string>
+    <string name="description_artist_itunes">Primary Genre Name: %1$s \nCollection Price: %2$s \nCurrency: %3$s\nCopyright: %4$s   </string>
+    <string name="label_offline">OFFLINE - CHECK YOUR NETWORK CONNECTION</string>
 </resources>
