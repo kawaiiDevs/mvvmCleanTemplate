@@ -3,7 +3,7 @@ Ejemplo básico de mvvm con State Flow, Hilt y coroutines.
 
 Para enternder más acerca de esta arquitectura puedes dirigirte a este artículo
 
-https://medium.com/@dadrianamendez/arquitectura-mvvm-clean-android-kotlin-plus-state-flow-coroutines-and-hilt-e43dae084613
+https://medium.com/@de.codify/arquitectura-mvvm-clean-android-kotlin-plus-state-flow-coroutines-and-hilt-e43dae084613
 
 Mvvm 
 
